@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c93991f-658f-4e66-80f7-505c55498625" name="Default Changelist" comment="" />
+    <list default="true" id="3c93991f-658f-4e66-80f7-505c55498625" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1SCM6GY69vMY1iJ8ilQwxYQEvuC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -48,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AddToCart_SingleTest">
+  <component name="RunManager" selected="TestNG.HandlingMultipleWindows">
     <configuration name="AddToCart_SingleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DeepDivePractice" />
       <extension name="coverage">
@@ -59,6 +68,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="functionalTestCases" />
       <option name="MAIN_CLASS_NAME" value="functionalTestCases.AddToCart_SingleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingMultipleWindows" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DeepDivePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments" />
+      <option name="MAIN_CLASS_NAME" value="assignments.HandlingMultipleWindows" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -87,9 +113,11 @@
     <list>
       <item itemvalue="TestNG.Unnamed" />
       <item itemvalue="TestNG.AddToCart_SingleTest" />
+      <item itemvalue="TestNG.HandlingMultipleWindows" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HandlingMultipleWindows" />
         <item itemvalue="TestNG.AddToCart_SingleTest" />
       </list>
     </recent_temporary>
@@ -106,5 +134,18 @@
       <updated>1571062946280</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
