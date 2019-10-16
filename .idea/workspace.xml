@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c93991f-658f-4e66-80f7-505c55498625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleWindowsMultipleTabs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/functionalTestCases/AddToCart_SingleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/functionalTestCases/AddToCart_SingleTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HandlingMultipleFrames">
+  <component name="RunManager" selected="TestNG.HandlingMultipleWindowsMultipleTabs">
     <configuration name="AddToCart_SingleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DeepDivePractice" />
       <extension name="coverage">
@@ -118,6 +117,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HandlingMultipleWindowsMultipleTabs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DeepDivePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments" />
+      <option name="MAIN_CLASS_NAME" value="assignments.HandlingMultipleWindowsMultipleTabs" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="TestNG" nameIsGenerated="true">
       <module name="DeepDivePractice" />
       <option name="SUITE_NAME" value="" />
@@ -141,9 +157,11 @@
       <item itemvalue="TestNG.AddToCart_SingleTest" />
       <item itemvalue="TestNG.HandlingMultipleWindows" />
       <item itemvalue="TestNG.HandlingMultipleFrames" />
+      <item itemvalue="TestNG.HandlingMultipleWindowsMultipleTabs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HandlingMultipleWindowsMultipleTabs" />
         <item itemvalue="TestNG.HandlingMultipleFrames" />
         <item itemvalue="TestNG.HandlingMultipleWindows" />
         <item itemvalue="TestNG.AddToCart_SingleTest" />
@@ -168,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571154528124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment added">
+      <created>1571235328042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571235328042</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
