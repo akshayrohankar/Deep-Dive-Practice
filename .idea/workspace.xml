@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c93991f-658f-4e66-80f7-505c55498625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleFrames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/functionalTestCases/AddToCart_SingleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/functionalTestCases/AddToCart_SingleTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Akshay Rohankar &lt;akrohankar@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -40,6 +46,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="assignments" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Eclipse Workspace\DeepDivePractice\src\main\java\resources" />
       <recent name="E:\Eclipse Workspace\DeepDivePractice\src\main\resources" />
@@ -57,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HandlingMultipleWindows">
+  <component name="RunManager" selected="TestNG.HandlingMultipleFrames">
     <configuration name="AddToCart_SingleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DeepDivePractice" />
       <extension name="coverage">
@@ -68,6 +77,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="functionalTestCases" />
       <option name="MAIN_CLASS_NAME" value="functionalTestCases.AddToCart_SingleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingMultipleFrames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DeepDivePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments" />
+      <option name="MAIN_CLASS_NAME" value="assignments.HandlingMultipleFrames" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -114,9 +140,11 @@
       <item itemvalue="TestNG.Unnamed" />
       <item itemvalue="TestNG.AddToCart_SingleTest" />
       <item itemvalue="TestNG.HandlingMultipleWindows" />
+      <item itemvalue="TestNG.HandlingMultipleFrames" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HandlingMultipleFrames" />
         <item itemvalue="TestNG.HandlingMultipleWindows" />
         <item itemvalue="TestNG.AddToCart_SingleTest" />
       </list>
@@ -133,6 +161,14 @@
       <option name="presentableId" value="Default" />
       <updated>1571062946280</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignment added">
+      <created>1571154528123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571154528124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +183,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment added" />
   </component>
 </project>
