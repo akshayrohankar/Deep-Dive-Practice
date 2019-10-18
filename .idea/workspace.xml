@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c93991f-658f-4e66-80f7-505c55498625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/HandlingMultipleWindowsMultipleTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/assignments/ReverseString_Simple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +65,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HandlingMultipleWindowsMultipleTabs">
+  <component name="RunManager" selected="Application.ReverseString_Simple">
+    <configuration name="ReverseString_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.ReverseString_Simple" />
+      <module name="DeepDivePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddToCart_SingleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DeepDivePractice" />
       <extension name="coverage">
@@ -158,9 +171,11 @@
       <item itemvalue="TestNG.HandlingMultipleWindows" />
       <item itemvalue="TestNG.HandlingMultipleFrames" />
       <item itemvalue="TestNG.HandlingMultipleWindowsMultipleTabs" />
+      <item itemvalue="Application.ReverseString_Simple" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString_Simple" />
         <item itemvalue="TestNG.HandlingMultipleWindowsMultipleTabs" />
         <item itemvalue="TestNG.HandlingMultipleFrames" />
         <item itemvalue="TestNG.HandlingMultipleWindows" />
@@ -193,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571235328042</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment added">
+      <created>1571238794200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571238794201</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,5 +234,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment added" />
     <option name="LAST_COMMIT_MESSAGE" value="Assignment added" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
